@@ -53,6 +53,3 @@ Compare resumes to job descriptions
 Score and rank candidates
 
 Build a foundation for automated resume screening tools
-
-## 📸 Output Screenshot ![Resume Screening Output](output.png)
-
